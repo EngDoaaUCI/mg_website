@@ -1,0 +1,21 @@
+[31-Jul-2023 06:50:40 America/Boise] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home4/qzxwjlmy/public_html/masyoungardens/img/default.php(31) : eval()'d code(1) : eval()'d code on line 1
+[27-Aug-2023 03:11:25 America/Boise] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home4/qzxwjlmy/public_html/masyoungardens/img/default.php(31) : eval()'d code(1) : eval()'d code on line 1
+[27-Aug-2023 03:11:26 America/Boise] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home4/qzxwjlmy/public_html/masyoungardens/img/default.php(31) : eval()'d code(1) : eval()'d code on line 1
+[07-Sep-2023 21:42:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function str_ronfr64_qrt13() in /home4/qzxwjlmy/public_html/masyoungardens/img/default.php:31
+Stack trace:
+#0 /home4/qzxwjlmy/public_html/masyoungardens/img/default.php(34): clnt()
+#1 {main}
+  thrown in /home4/qzxwjlmy/public_html/masyoungardens/img/default.php on line 31
+[14-Sep-2023 11:23:04 America/Boise] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home4/qzxwjlmy/public_html/masyoungardens/img/default.php(31) : eval()'d code(1) : eval()'d code on line 1
+[14-Sep-2023 11:23:05 America/Boise] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home4/qzxwjlmy/public_html/masyoungardens/img/default.php(31) : eval()'d code(1) : eval()'d code on line 1
+[01-Oct-2023 07:09:50 America/Boise] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home4/qzxwjlmy/public_html/masyoungardens/img/default.php(31) : eval()'d code(1) : eval()'d code on line 1
+[01-Oct-2023 07:09:50 America/Boise] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home4/qzxwjlmy/public_html/masyoungardens/img/default.php(31) : eval()'d code(1) : eval()'d code on line 1
+[22-Oct-2023 07:01:54 America/Boise] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home4/qzxwjlmy/public_html/masyoungardens/img/default.php(31) : eval()'d code(1) : eval()'d code on line 1
+[22-Oct-2023 07:01:54 America/Boise] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home4/qzxwjlmy/public_html/masyoungardens/img/default.php(31) : eval()'d code(1) : eval()'d code on line 1
+[12-Nov-2023 14:38:02 America/Boise] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home4/qzxwjlmy/public_html/masyoungardens/img/default.php(31) : eval()'d code(1) : eval()'d code on line 1
+[12-Nov-2023 14:38:02 America/Boise] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home4/qzxwjlmy/public_html/masyoungardens/img/default.php(31) : eval()'d code(1) : eval()'d code on line 1
+[24-Nov-2023 23:07:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function str_ront13() in /home4/qzxwjlmy/public_html/masyoungardens/img/default.php:31
+Stack trace:
+#0 /home4/qzxwjlmy/public_html/masyoungardens/img/default.php(34): clnt()
+#1 {main}
+  thrown in /home4/qzxwjlmy/public_html/masyoungardens/img/default.php on line 31
